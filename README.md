@@ -1,0 +1,68 @@
+# 🌐 Aneek Pakhira - Personal Portfolio
+
+Welcome to my personal portfolio website! This project showcases my skills, education, and web development journey.
+
+## 🚀 About Me
+
+Hi, I'm **Aneek Pakhira**, a BCA student and aspiring web developer from India. I enjoy building clean, responsive websites and continuously learning new technologies.
+
+## 👨‍💻 Author 
+Aneek Pakhira © 2026
+
+## ✨ Features
+
+- 🏠 Modern home page
+- 👨‍💻 About section
+- 📚 Education & experience timeline
+- 📱 Responsive design for desktop, tablet, and mobile
+- 📬 Contact form
+- 🔗 Social media links
+- 🎨 Simple and clean UI
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- Boxicons
+- Google Fonts (Poppins)
+
+## 📁 Project Structure
+
+```
+portfolio/
+│── index.html
+│── style.css
+│── README.md
+│
+├── img/
+│   ├── logo.png
+│   ├── main.png
+│   ├── school.png
+│   ├── collage.png
+│   ├── html.png
+│   ├── youtube.png
+```
+
+## 📱 Responsive Design
+
+The website is optimized for:
+- 💻 Desktop
+- 📱 Mobile
+- 📲 Tablet
+
+## 🚀 Live Demo
+
+🔗 https://aneekpakhira.github.io/aneek/
+
+## 📬 Contact
+
+Feel free to connect with me through the contact form on the website or via my social media profiles.
+
+## 📄 License
+
+This project is open source and available for personal learning and portfolio purposes.
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub!
