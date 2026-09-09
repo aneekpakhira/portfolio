@@ -53,8 +53,7 @@ The website is optimized for:
 
 ## 🚀 Live Demo
 
-🔗 https://aneekpakhira.github.io/aneek/
-
+🔗 https://aneek.dpdns.org
 ## 📬 Contact
 
 Feel free to connect with me through the contact form on the website or via my social media profiles.
